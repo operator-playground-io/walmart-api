@@ -1,0 +1,48 @@
+{
+  "name": "Wallmart API",
+  "description": "Wallmart API's for inventory, price, item and orders.",
+  "logo": "_images/api_collections.png",
+  "has_supporting_content": true,
+  "stack_id": "wallmart_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [
+    {
+      "description": "Get API for inventory",
+      "exec": "cd /home/student/projects && mkdir api && cd api && mkdir wallmart && cd wallmart && wget https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/walmart.com/inventory/3.0.1/swagger.yaml"
+    },
+    {
+      "description": "Get API for item",
+      "exec": "cd /home/student/projects/api/wallmart && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/item/3.0.1/swagger.yaml"
+    },
+    {
+      "description": "Get API for order",
+      "exec": "cd /home/student/projects/api/wallmart && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/order/3.0.1/swagger.yaml"
+    },
+    {
+      "description": "Get API for price",
+      "exec": "cd /home/student/projects/api/wallmart && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/price/3.0.1/swagger.yaml"
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "meta": {
+    "Install time": ["3 minutes"],
+    "Language": [
+      "Yaml"
+    ],
+    "categories": [
+      "Public API"
+    ]
+  },
+  "isDocumentSaved": true
+}

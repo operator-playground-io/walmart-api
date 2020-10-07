@@ -1,0 +1,17 @@
+{
+  "name": "Wallmart Support Content",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "Wallmart API's for inventory, price, item and orders.",
+      "duration": "10 min",
+      "tutorial_name": "wallmart_tutorial.md",
+      "title": "Wallmart API Tutorial"
+    }
+  ],
+  "usefulLinks": [],
+  "demos": [],
+  "isTutorialSaved": true
+}

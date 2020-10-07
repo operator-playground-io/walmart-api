@@ -1,0 +1,21 @@
+{
+  "title": "Wallmart API",
+  "description": "Wallmart API's for inventory, price, item and orders.",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "language": [
+    "Yaml"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "wallmart_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+}
