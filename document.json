@@ -17,15 +17,15 @@
     },
     {
       "description": "Get API for item",
-      "exec": "cd /home/student/projects/api/wallmart_api && mkdir item && cd item && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/item/3.0.1/swagger.yaml"
+      "exec": "cd /home/student/projects/wallmart_api && mkdir item && cd item && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/item/3.0.1/swagger.yaml"
     },
     {
       "description": "Get API for order",
-      "exec": "cd /home/student/projects/api/wallmart_api && mkdir order && cd order && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/order/3.0.1/swagger.yaml"
+      "exec": "cd /home/student/projects/wallmart_api && mkdir order && cd order && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/order/3.0.1/swagger.yaml"
     },
     {
       "description": "Get API for price",
-      "exec": "cd /home/student/projects/api/wallmart_api && mkdir price && cd price && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/price/3.0.1/swagger.yaml"
+      "exec": "cd /home/student/projects/wallmart_api && mkdir price && cd price && wget https://github.com/APIs-guru/openapi-directory/blob/master/APIs/walmart.com/price/3.0.1/swagger.yaml"
     }
   ],
   "display": [
