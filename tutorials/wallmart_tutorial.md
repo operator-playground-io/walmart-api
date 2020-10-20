@@ -9,7 +9,7 @@ Wallmart API's for inventory, price, item and orders.
 
 ### Access the Swagger
 To start
-Go to the **developer dashbaord**.
+Go to the **developer dashboard**.
 Access the swagger file in the **developer dashboard** by double clicking on it. 
 
 
