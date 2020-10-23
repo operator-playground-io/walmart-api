@@ -1,13 +1,13 @@
 {
-  "title": "Wallmart API",
-  "description": "Wallmart API's for inventory, price, item and orders.",
+  "title": "Walmart API",
+  "description": "Walmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
   "enabled": true,
   "language": [
     "Yaml"
   ],
   "document": "data-logging-stack",
-  "stack_id": "wallmart_api",
+  "stack_id": "walmart_api",
   "type": "api",
   "categories": [
     "Public API"
