@@ -1,14 +1,14 @@
 {
-  "name": "Wallmart Support Content",
+  "name": "Walmart Support Content",
   "appLayout": "accordion",
   "appTheme": "g90",
   "footer": "footer.md",
   "tutorials": [
     {
-      "description": "Wallmart API's for inventory, price, item and orders.",
+      "description": "Walmart API's for inventory, price, item and orders.",
       "duration": "10 min",
-      "tutorial_name": "wallmart_tutorial.md",
-      "title": "Wallmart API Tutorial"
+      "tutorial_name": "walmart_tutorial.md",
+      "title": "Walmart API Tutorial"
     }
   ],
   "usefulLinks": [],
