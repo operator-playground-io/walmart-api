@@ -1,1 +1,1 @@
-### Wallmart API's for inventory, price, item and orders.
+### Walmart API's for inventory, price, item and orders.
