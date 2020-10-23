@@ -1,11 +1,11 @@
 ---
-title: Wallmart API
-description: Wallmart API's for inventory, price, item and orders.
+title: Walmart API
+description: Walmart API's for inventory, price, item and orders.
 ---
 
 ### Introduction
 
-Wallmart API's for inventory, price, item and orders.
+Walmart API's for inventory, price, item and orders.
 
 ### Access the Swagger
 To start
