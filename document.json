@@ -1,9 +1,9 @@
 {
-  "name": "Wallmart API",
-  "description": "Wallmart API's for inventory, price, item and orders.",
+  "name": "Walmart API",
+  "description": "Walmart API's for inventory, price, item and orders.",
   "logo": "_images/api_collections.png",
   "has_supporting_content": true,
-  "stack_id": "wallmart_api",
+  "stack_id": "walmart_api",
   "type": "API Collections",
   "categories": [
     "Public API"
@@ -13,7 +13,7 @@
   "commands": [
     {
       "description": "Get API for inventory",
-      "exec": "cd /home/student/projects && mkdir wallmart_api && cd wallmart_api && mkdir inventory && cd inventory && wget https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/walmart.com/inventory/3.0.1/swagger.yaml"
+      "exec": "cd /home/student/projects && mkdir walmart_api && cd walmart_api && mkdir inventory && cd inventory && wget https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/walmart.com/inventory/3.0.1/swagger.yaml"
     }
   ],
   "display": [
