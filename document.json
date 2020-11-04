@@ -10,6 +10,9 @@
   ],
   "platform": "Kubernetes",
   "cover": "cover.md",
+  "deployment_information": {
+     "API": "/home/student/projects/walmart_api"
+  },
   "commands": [
     {
       "description": "Get API for inventory",
