@@ -8,9 +8,11 @@ description: Walmart API's for inventory, price, item and orders.
 Walmart API's for inventory, price, item and orders.
 
 ### Access the Swagger
-To start
-Go to the **developer dashboard**.
-Open the Swagger file.
+To start:
+
+* Go to the **developer dashboard**.
+
+* Open the Swagger file.
 
 ![swaggerPort](_images/open-command-palette.PNG)
 
