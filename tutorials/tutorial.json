@@ -9,7 +9,22 @@
       "duration": "10 min",
       "tutorial_name": "walmart_tutorial.md",
       "title": "Walmart API Tutorial"
-    }
+    },
+    {
+         "description":"Learn how to verify that the MariaDB Operator has been properly installed in the namespace.",
+         "duration":"10 min",
+         "tutorial_name":"operator-status.md",
+         "title":"1. MariaDB Operator installation verification"
+         "commitId": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da"
+      },	   
+      
+      {
+         "description":"Learn how to create Instance of MariaDB operator",
+         "duration":"10 min",
+         "tutorial_name":"create-instance.md",
+         "title":"2. MariaDB Instance creation",
+         "commitId": "0510e179c52295a5b85aa8fa6d33fddb5b86d0da"
+      },
   ],
   "usefulLinks": [],
   "demos": [],
